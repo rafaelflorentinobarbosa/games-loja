@@ -1,0 +1,23 @@
+.example-spacer {
+    flex: 1 1 auto;
+}
+
+#menu-restrito span {
+    padding: 5px 5px;
+    color: black;
+}
+
+#menu-restrito  a {
+    text-decoration: none;
+    color: black!important;
+}
+
+img {
+    height: 50px;
+    width: 50px;
+}
+#menu-restrito{
+    background-color: white;
+    border-bottom: 1px solid lightgray;
+   
+  }
